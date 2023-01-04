@@ -1,1 +1,22 @@
 /* codigo css aqui */
+
+
+._mpnvpwj {
+    /*position: absolute;
+    right: 200px;*/
+    /*z-index: 2;
+    appearance: none;*/
+    height: 200px;
+    width: 200px;
+    /*padding: 16px;*/
+    /*margin: 0px;
+    border: 0px;*/
+    /*outline: 0px;*/
+    /*opacity: 0.8;*/
+    /*background-size: 16px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    transition: all 0.2s ease 0s; */
+    background-image: url(/dist/assets/e95fe51….png);
+}
